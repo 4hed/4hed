@@ -2,7 +2,7 @@
 [![htb](https://img.shields.io/badge/hackthebox-profile-green)](https://www.hackthebox.eu/home/users/profile/395982)
 
 
-## Im a full-time studnet, programmer and cyber security enthusiast !
+## Im a full-time student, programmer and cyber security enthusiast !
 
 - 🌱 I’m currently learning everything
 
